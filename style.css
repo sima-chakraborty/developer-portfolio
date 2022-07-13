@@ -71,7 +71,9 @@ p {
 
 }
 
-.dev-text {}
+.dev-text {
+    font-size: 80%;
+}
 
 .experience-area {
     background-image: url(image/exp-bg.png);
@@ -80,10 +82,12 @@ p {
 }
 
 .experience-item {
+
     width: 40%;
     margin-left: 5%;
     margin-right: 5%;
     border-radius: 15px;
+
 
 
 
@@ -96,6 +100,8 @@ footer p {
 
 #full-stack-webdeveloper {
     border-left: 7px solid tomato;
+
+
 }
 
 #baby-web-developer {
